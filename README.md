@@ -1,1 +1,3 @@
 # godegen
+
+aiueo
