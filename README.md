@@ -1,3 +1,4 @@
 # godegen
 
 aiueo
+kakikukeko
